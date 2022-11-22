@@ -9,7 +9,7 @@ This app is built using rails-6.1.4.1 and uses a MySQL database. It integrates w
 
 * Clone the app from github.
 ```bash
-git clone  
+git clone https://github.com/Muhanned-Kamar/Chat-Api-App.git
 ```
 
 * cd in the repo directory.
